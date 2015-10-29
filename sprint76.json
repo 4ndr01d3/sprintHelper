@@ -1,0 +1,22 @@
+{
+  "name": "Sprint 76",
+  "developers": [
+    { "name": "Maxim"},
+    { "name": "Sebastien"},
+    { "name": "Gift"},
+    { "name": "Siew-Yit"},
+    { "name": "Matthew"},
+    { "name": "Matloob"},
+    { "name": "Jaina"},
+    { "name": "Simon"},
+    { "name": "Aurelien"},
+    { "name": "Gustavo"}
+  ],
+  "projects": [
+    { "name": "PFam"},
+    { "name": "Interpro"},
+    { "name": "EMG"},
+    { "name": "Hmmer"},
+    { "name": "Skylign"}
+  ]
+}
